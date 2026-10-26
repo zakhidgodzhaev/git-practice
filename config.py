@@ -1,1 +1,1 @@
-﻿DEBUG = "enabled"
+DEBUG = True
